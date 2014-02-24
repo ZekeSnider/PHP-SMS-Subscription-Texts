@@ -5,3 +5,6 @@ The Database table should have the following fields: "Name Number Carrier". The 
 I may add a feature to send new additions to the list a welcome message in the future. A unsubscribe feature is never planned because why would anyone ever want to unsubscribe from the great things you're sending?
 
 All you need to do to use this is just add your mysql information and email header/reply-to/etc. Also place a "random.txt" in the directory if you want to the messages to load from a random line in a text file. Otherwise just edit that line.
+
+
+(P.S. THERE MAY BE SOMETHING HORRIBLY WRONG WITH THIS I DIDN'T REALLY TEST IT LOL)
